@@ -63,7 +63,7 @@ Links to WIKI
 -->
 Software:
 1. [User Guide / Documentation](https://github.com/enhamer/enhamer/wiki)
-1. [Installation Guide](https://github.com/enhamer/enhamer/wiki/Installation/Install)
+1. [Installation Guide](https://github.com/enhamer/enhamer/wiki/Installation)
 1. [Quick Start](https://github.com/enhamer/enhamer/wiki/Quick_Start)
 
 Hardware:
@@ -105,9 +105,9 @@ cd enhamer
 pip install -r requirements.txt
 ```
 
-1. For detailed [**Installation Instruction**](https://github.com/enhamer/enhamer/wiki/Installation/Install)
+1. For detailed [**Installation Instruction**](https://github.com/enhamer/enhamer/wiki/Installation)
  please go to [Project WIKI Page](https://github.com/enhamer/enhamer/wiki).
-1. For [**Quick Start**](https://github.com/enhamer/enhamer/wiki/Installation/Quick_Start) guide please go to [Project WIKI Page](https://github.com/enhamer/enhamer/wiki).
+1. For [**Quick Start**](https://github.com/enhamer/enhamer/wiki/Quick_Start) guide please go to [Project WIKI Page](https://github.com/enhamer/enhamer/wiki).
 
 
 <!---
