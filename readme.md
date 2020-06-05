@@ -64,7 +64,7 @@ Links to WIKI
 Software:
 1. [User Guide / Documentation](https://github.com/enhamer/enhamer/wiki)
 1. [Installation Guide](https://github.com/enhamer/enhamer/wiki/Installation/Install)
-1. [Quick Start](https://github.com/enhamer/enhamer/wiki/Installation/Quick_Start)
+1. [Quick Start](https://github.com/enhamer/enhamer/wiki/Quick_Start)
 
 Hardware:
 1. Accelerometer: 
@@ -78,7 +78,7 @@ Hardware:
 
 
 ## Dependencies
-The ENHAMER scripts require Python >= 3.6 and use the libraries and packages specified below.
+The ENHAMER scripts require Python >= 3.6 and use the libraries and packages specified below:
 
 
 | Packages                                                      | Optional   | Note                         | License              |
@@ -88,7 +88,7 @@ The ENHAMER scripts require Python >= 3.6 and use the libraries and packages spe
 | [**pyvisa**](https://pyvisa.readthedocs.io/)                  |            | tested with `pyvisa-1.8`     |*MIT License*         |
 | [**pathlib**](https://docs.python.org/3/library/pathlib.html) |            | tested with `pathlib-1.0.1`  | *Python Software Foundation License*
 | [**matplotlib**](https://matplotlib.org/)                     | *Optional* |                              |*Matplotlib License*  |
-| 
+|                               |                       |       |               |
 
 
 
